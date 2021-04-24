@@ -8,7 +8,7 @@ echo $num
 num=$(( $num - 1 ))
 # substraction 11 - 1 = 10
 echo $num
-
+ 
 num=$(( $num * 2))
 # multiply 10 * 2 = 20
 echo $num
