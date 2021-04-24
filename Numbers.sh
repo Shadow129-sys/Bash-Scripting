@@ -1,6 +1,6 @@
 num=10
 # declaring num variable to 10
-
+ 
 num=$(( $num + 1 ))
 # addition 10 + 1 = 11
 echo $num
