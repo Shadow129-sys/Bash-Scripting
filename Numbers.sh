@@ -4,7 +4,7 @@ num=10
 num=$(( $num + 1 ))
 # addition 10 + 1 = 11
 echo $num
-
+ 
 num=$(( $num - 1 ))
 # substraction 11 - 1 = 10
 echo $num
