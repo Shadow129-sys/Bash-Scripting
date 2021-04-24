@@ -40,7 +40,7 @@ num=$(( $num^2 ))
 #----------
 # 3 -> 1 1
 echo $num
- 
+
 # %,>>,<<,~,** also works in this manner
 # % - mod
 # ** - power, ex. a**b means a to the power b
